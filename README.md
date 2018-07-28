@@ -9,6 +9,7 @@ Sales Manager Project
 * Django 2.0.7
 * Python 3
 * Env
+* Pillow
 
 ## Installing
 
@@ -26,6 +27,11 @@ Django
 
 ```
 pip install Django=2.0.7
+```
+
+Pillow
+```
+pip install Pillow
 ```
 
 ## miscellaneous
