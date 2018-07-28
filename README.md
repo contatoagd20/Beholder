@@ -28,6 +28,10 @@ Django
 pip install Django=2.0.7
 ```
 
+## miscellaneous
+
+Settings configured to *America/Sao_Paulo*, if you need change the setting.py file **TIME_ZONE**
+
 ## Authors
 
 * **Corrêa, Rodrigo** - *Initial work*
